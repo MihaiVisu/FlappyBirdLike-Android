@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gameandroiddemo-android/bin/dexedLibs/annotations-88092acb01a949004eb52557254c0e39.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gameandroiddemo-android/bin/dexedLibs/gdx-backend-android-sources-b31999b45618ba9ab8c9b1980a661d94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gameandroiddemo-android/bin/dexedLibs/gdx-backend-android-d5e4230865979c9a2b1ba16d1609581f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gameandroiddemo-android/bin/dexedLibs/gdx-10ac63092d4c6263626cbfb600403efc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
