@@ -3,4 +3,4 @@ This repository contains a FlappyBird like game written entirely in Java, using 
 
 The whole project and necessary configurations to import the libraries were made through Eclipse IDE.
 <hr>
-This project is still in development (trying to make it more complex)...
+<b>This project is still in development (trying to make it more complex)...</b>
